@@ -1,0 +1,5 @@
+D:\downloads\MouseKeyboardLib2008\MouseKeyboardLibrary\bin\Debug\MouseKeyboardLibrary.dll
+D:\downloads\MouseKeyboardLib2008\MouseKeyboardLibrary\bin\Debug\MouseKeyboardLibrary.pdb
+D:\downloads\MouseKeyboardLib2008\MouseKeyboardLibrary\obj\Debug\MouseKeyboardLibrary.csprojResolveAssemblyReference.cache
+D:\downloads\MouseKeyboardLib2008\MouseKeyboardLibrary\obj\Debug\MouseKeyboardLibrary.dll
+D:\downloads\MouseKeyboardLib2008\MouseKeyboardLibrary\obj\Debug\MouseKeyboardLibrary.pdb

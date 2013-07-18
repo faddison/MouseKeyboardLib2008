@@ -1,0 +1,10 @@
+D:\downloads\MouseKeyboardLib2008\GlobalMacroRecorder\bin\Debug\GlobalMacroRecorder.exe
+D:\downloads\MouseKeyboardLib2008\GlobalMacroRecorder\bin\Debug\GlobalMacroRecorder.pdb
+D:\downloads\MouseKeyboardLib2008\GlobalMacroRecorder\bin\Debug\MouseKeyboardLibrary.dll
+D:\downloads\MouseKeyboardLib2008\GlobalMacroRecorder\bin\Debug\MouseKeyboardLibrary.pdb
+D:\downloads\MouseKeyboardLib2008\GlobalMacroRecorder\obj\Debug\GlobalMacroRecorder.csprojResolveAssemblyReference.cache
+D:\downloads\MouseKeyboardLib2008\GlobalMacroRecorder\obj\Debug\GlobalMacroRecorder.MacroForm.resources
+D:\downloads\MouseKeyboardLib2008\GlobalMacroRecorder\obj\Debug\GlobalMacroRecorder.Properties.Resources.resources
+D:\downloads\MouseKeyboardLib2008\GlobalMacroRecorder\obj\Debug\GlobalMacroRecorder.csproj.GenerateResource.Cache
+D:\downloads\MouseKeyboardLib2008\GlobalMacroRecorder\obj\Debug\GlobalMacroRecorder.exe
+D:\downloads\MouseKeyboardLib2008\GlobalMacroRecorder\obj\Debug\GlobalMacroRecorder.pdb

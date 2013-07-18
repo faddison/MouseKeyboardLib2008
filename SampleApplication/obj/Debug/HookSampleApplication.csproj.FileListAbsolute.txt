@@ -1,0 +1,10 @@
+D:\downloads\MouseKeyboardLib2008\SampleApplication\bin\Debug\SampleApplication.exe
+D:\downloads\MouseKeyboardLib2008\SampleApplication\bin\Debug\SampleApplication.pdb
+D:\downloads\MouseKeyboardLib2008\SampleApplication\bin\Debug\MouseKeyboardLibrary.dll
+D:\downloads\MouseKeyboardLib2008\SampleApplication\bin\Debug\MouseKeyboardLibrary.pdb
+D:\downloads\MouseKeyboardLib2008\SampleApplication\obj\Debug\HookSampleApplication.csprojResolveAssemblyReference.cache
+D:\downloads\MouseKeyboardLib2008\SampleApplication\obj\Debug\SampleApplication.Properties.Resources.resources
+D:\downloads\MouseKeyboardLib2008\SampleApplication\obj\Debug\SampleApplication.HookTestForm.resources
+D:\downloads\MouseKeyboardLib2008\SampleApplication\obj\Debug\HookSampleApplication.csproj.GenerateResource.Cache
+D:\downloads\MouseKeyboardLib2008\SampleApplication\obj\Debug\SampleApplication.exe
+D:\downloads\MouseKeyboardLib2008\SampleApplication\obj\Debug\SampleApplication.pdb
