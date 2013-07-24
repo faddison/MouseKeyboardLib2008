@@ -3,3 +3,8 @@ D:\downloads\MouseKeyboardLib2008\MouseKeyboardLibrary\bin\Debug\MouseKeyboardLi
 D:\downloads\MouseKeyboardLib2008\MouseKeyboardLibrary\obj\Debug\MouseKeyboardLibrary.csprojResolveAssemblyReference.cache
 D:\downloads\MouseKeyboardLib2008\MouseKeyboardLibrary\obj\Debug\MouseKeyboardLibrary.dll
 D:\downloads\MouseKeyboardLib2008\MouseKeyboardLibrary\obj\Debug\MouseKeyboardLibrary.pdb
+D:\git\MouseKeyboardLib2008\MouseKeyboardLibrary\bin\Debug\MouseKeyboardLibrary.dll
+D:\git\MouseKeyboardLib2008\MouseKeyboardLibrary\bin\Debug\MouseKeyboardLibrary.pdb
+D:\git\MouseKeyboardLib2008\MouseKeyboardLibrary\obj\Debug\MouseKeyboardLibrary.csprojResolveAssemblyReference.cache
+D:\git\MouseKeyboardLib2008\MouseKeyboardLibrary\obj\Debug\MouseKeyboardLibrary.dll
+D:\git\MouseKeyboardLib2008\MouseKeyboardLibrary\obj\Debug\MouseKeyboardLibrary.pdb

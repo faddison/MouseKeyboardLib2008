@@ -128,6 +128,74 @@ namespace MouseKeyboardLibrary
 
         #endregion
 
+        #region Extension Methods
+
+        public static void KeyPress(int num)
+        {
+            KeyPress(ParseInt(num));
+        }
+
+        static Keys ParseInt(int num)
+        {
+            Keys keyPressed;
+            switch (num)
+            {
+                case 0:
+                    keyPressed = Keys.D0;
+                    break;
+                case 1:
+                    keyPressed = Keys.D1;
+                    break;
+                case 2:
+                    keyPressed = Keys.D2;
+                    break;
+                case 3:
+                    keyPressed = Keys.D3;
+                    break;
+                case 4:
+                    keyPressed = Keys.D4;
+                    break;
+                case 5:
+                    keyPressed = Keys.D5;
+                    break;
+                case 6:
+                    keyPressed = Keys.D6;
+                    break;
+                case 7:
+                    keyPressed = Keys.D7;
+                    break;
+                case 8:
+                    keyPressed = Keys.D8;
+                    break;
+                case 9:
+                    keyPressed = Keys.D9;
+                    break;
+                default:
+                    throw new Exception("Invalid character pressed");
+            }
+            return keyPressed;
+        }
+
+        public static void PressKeys(Keys[] keys)
+        {
+            foreach (Keys key in keys)
+            {
+                KeyPress(key);
+            }
+        }
+
+        public static void PressKeys(String number)
+        {
+
+            foreach (Char c in number)
+            {
+                KeyPress(ParseInt(int.Parse(c.ToString())));
+            }
+
+        }
+
+        #endregion
+
     }
 
 }
