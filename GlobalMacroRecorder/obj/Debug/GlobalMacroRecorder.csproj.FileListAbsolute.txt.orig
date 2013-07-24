@@ -8,6 +8,18 @@ D:\downloads\MouseKeyboardLib2008\GlobalMacroRecorder\obj\Debug\GlobalMacroRecor
 D:\downloads\MouseKeyboardLib2008\GlobalMacroRecorder\obj\Debug\GlobalMacroRecorder.csproj.GenerateResource.Cache
 D:\downloads\MouseKeyboardLib2008\GlobalMacroRecorder\obj\Debug\GlobalMacroRecorder.exe
 D:\downloads\MouseKeyboardLib2008\GlobalMacroRecorder\obj\Debug\GlobalMacroRecorder.pdb
+<<<<<<< HEAD
+D:\git\MouseKeyboardLib2008\GlobalMacroRecorder\bin\Debug\GlobalMacroRecorder.exe
+D:\git\MouseKeyboardLib2008\GlobalMacroRecorder\bin\Debug\GlobalMacroRecorder.pdb
+D:\git\MouseKeyboardLib2008\GlobalMacroRecorder\bin\Debug\MouseKeyboardLibrary.dll
+D:\git\MouseKeyboardLib2008\GlobalMacroRecorder\bin\Debug\MouseKeyboardLibrary.pdb
+D:\git\MouseKeyboardLib2008\GlobalMacroRecorder\obj\Debug\GlobalMacroRecorder.csprojResolveAssemblyReference.cache
+D:\git\MouseKeyboardLib2008\GlobalMacroRecorder\obj\Debug\GlobalMacroRecorder.MacroForm.resources
+D:\git\MouseKeyboardLib2008\GlobalMacroRecorder\obj\Debug\GlobalMacroRecorder.Properties.Resources.resources
+D:\git\MouseKeyboardLib2008\GlobalMacroRecorder\obj\Debug\GlobalMacroRecorder.csproj.GenerateResource.Cache
+D:\git\MouseKeyboardLib2008\GlobalMacroRecorder\obj\Debug\GlobalMacroRecorder.exe
+D:\git\MouseKeyboardLib2008\GlobalMacroRecorder\obj\Debug\GlobalMacroRecorder.pdb
+=======
 C:\git\MouseKeyboardLib2008\GlobalMacroRecorder\bin\Debug\GlobalMacroRecorder.exe
 C:\git\MouseKeyboardLib2008\GlobalMacroRecorder\bin\Debug\GlobalMacroRecorder.pdb
 C:\git\MouseKeyboardLib2008\GlobalMacroRecorder\bin\Debug\MouseKeyboardLibrary.dll
@@ -18,3 +30,4 @@ C:\git\MouseKeyboardLib2008\GlobalMacroRecorder\obj\Debug\GlobalMacroRecorder.Pr
 C:\git\MouseKeyboardLib2008\GlobalMacroRecorder\obj\Debug\GlobalMacroRecorder.csproj.GenerateResource.Cache
 C:\git\MouseKeyboardLib2008\GlobalMacroRecorder\obj\Debug\GlobalMacroRecorder.exe
 C:\git\MouseKeyboardLib2008\GlobalMacroRecorder\obj\Debug\GlobalMacroRecorder.pdb
+>>>>>>> added nuget packaging

@@ -8,6 +8,18 @@ D:\downloads\MouseKeyboardLib2008\SampleApplication\obj\Debug\SampleApplication.
 D:\downloads\MouseKeyboardLib2008\SampleApplication\obj\Debug\HookSampleApplication.csproj.GenerateResource.Cache
 D:\downloads\MouseKeyboardLib2008\SampleApplication\obj\Debug\SampleApplication.exe
 D:\downloads\MouseKeyboardLib2008\SampleApplication\obj\Debug\SampleApplication.pdb
+<<<<<<< HEAD
+D:\git\MouseKeyboardLib2008\SampleApplication\bin\Debug\SampleApplication.exe
+D:\git\MouseKeyboardLib2008\SampleApplication\bin\Debug\SampleApplication.pdb
+D:\git\MouseKeyboardLib2008\SampleApplication\bin\Debug\MouseKeyboardLibrary.dll
+D:\git\MouseKeyboardLib2008\SampleApplication\bin\Debug\MouseKeyboardLibrary.pdb
+D:\git\MouseKeyboardLib2008\SampleApplication\obj\Debug\HookSampleApplication.csprojResolveAssemblyReference.cache
+D:\git\MouseKeyboardLib2008\SampleApplication\obj\Debug\SampleApplication.Properties.Resources.resources
+D:\git\MouseKeyboardLib2008\SampleApplication\obj\Debug\SampleApplication.HookTestForm.resources
+D:\git\MouseKeyboardLib2008\SampleApplication\obj\Debug\HookSampleApplication.csproj.GenerateResource.Cache
+D:\git\MouseKeyboardLib2008\SampleApplication\obj\Debug\SampleApplication.exe
+D:\git\MouseKeyboardLib2008\SampleApplication\obj\Debug\SampleApplication.pdb
+=======
 C:\git\MouseKeyboardLib2008\SampleApplication\bin\Debug\SampleApplication.exe
 C:\git\MouseKeyboardLib2008\SampleApplication\bin\Debug\SampleApplication.pdb
 C:\git\MouseKeyboardLib2008\SampleApplication\bin\Debug\MouseKeyboardLibrary.dll
@@ -18,3 +30,4 @@ C:\git\MouseKeyboardLib2008\SampleApplication\obj\Debug\SampleApplication.HookTe
 C:\git\MouseKeyboardLib2008\SampleApplication\obj\Debug\HookSampleApplication.csproj.GenerateResource.Cache
 C:\git\MouseKeyboardLib2008\SampleApplication\obj\Debug\SampleApplication.exe
 C:\git\MouseKeyboardLib2008\SampleApplication\obj\Debug\SampleApplication.pdb
+>>>>>>> added nuget packaging
